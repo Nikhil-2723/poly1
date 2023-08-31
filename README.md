@@ -10,7 +10,7 @@ The creation, deployment, and management of an NFT collection are all illustrate
 
 ### Installation
 1. Clone the repository using git by typing "git clone https://github.com/Nikhil-2723/poly1".
-2. Use 'cd SpaceNFT' to access the project directory.
+2. Use 'cd Nikhilnft-main' to access the project directory.
 3. Use 'npm install' to install dependencies.
 
 ## Deployment
