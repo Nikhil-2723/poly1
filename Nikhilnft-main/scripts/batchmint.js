@@ -1,7 +1,7 @@
 const hre = require("hardhat");
 const NikhilNFTContractJSON = require("../artifacts/contracts/NikhilNFT.sol/NikhilNFT.json");
 
-const contract_address = "0x616E9ed7E928fc95E68555bB94809e178D6C3AA9"; // Replace with the actual contract address
+const contract_address = "0xF0960FFf769847c5D9017b5CA1948b3Fd5a52Efd"; // Replace with the actual contract address
 const NikhilNFTABI = NikhilNFTContractJSON.abi;
 const walletAddress = "0x77E930D39F67A75E5054bF73a92ffC02c98d9cf2"; // Replace with your wallet address
 
