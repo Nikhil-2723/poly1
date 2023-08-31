@@ -32,9 +32,9 @@ The creation, deployment, and management of an NFT collection are all illustrate
 2. Run the script: `npx hardhat run scripts/batch-transfer.js --network goerli`
 
 ## Testing
-1. Ensure you have testnet Ether and MATIC tokens for Goerli and Polygon Mumbai, respectively.
-2. Update the `test.js` script with the contract addresses and your wallet details.
-3. Run the script: `npx hardhat run scripts/test.js --network mumbai` for balanceOf on Mumbai.
+1. Ensure you have MATIC tokens for Polygon Mumbai and Goerli, as well as testnet Ether.
+2. Add your wallet information and the contract addresses to the 'test.js' script.
+3. Execute the script as follows: 'npx hardhat run scripts/test.js --network mumbai' for balanceOf on Mumbai.
 
 ## Authors
 Nikhil Upadhyay
