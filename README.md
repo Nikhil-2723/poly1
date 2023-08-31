@@ -22,10 +22,6 @@ The creation, deployment, and management of an NFT collection are all illustrate
 1. Add the created IPFS URIs and prompt descriptions to the 'NikhilNFT.sol' contract.
 2. Upload the amended contract to the Ethereum Goerli Testnet.
 
-### Map to Polygon
-1. Use the Polygon network's token mapper to map your ERC721/ERC1155 contract from Ethereum to Polygon.
-2. Note the new contract address on Polygon.
-
 ## Scripts
 ### Batch Minting
 1. Update the `batch-mint.js` script with the contract address and your Ethereum wallet details.
